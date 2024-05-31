@@ -1,0 +1,6 @@
+CREATE TABLE [dbo].[Ticket]
+(
+  [Id] INT PRIMARY KEY IDENTITY,
+  [Name] VARCHAR(50) NOT NULL,
+  FOREIGN KEY ([PlayerId]) REFERENCES [Player]([Id])
+)
