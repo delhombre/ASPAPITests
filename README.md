@@ -28,11 +28,11 @@ The DemoASPTest project is a multi-layered ASP.NET solution designed for demonst
 
 ## Repository Structure
 
-[DemoASPTest.Domain](/DemoASPTest.Domain/): Domain logic
-[DemoASPTest.DAL](/DemoASPTest.DAL/): Data access layer
-[DemoASPTest.BLL](/DemoASPTest.BLL/): Business logic layer
-[DemoASPTest.API](/DemoASPTest.API/): API endpoints
-[DemoASPTest.DB](/DemoASPTest.DB/): Database project with SQL scripts
+- [DemoASPTest.Domain](/DemoASPTest.Domain/): Domain logic
+- [DemoASPTest.DAL](/DemoASPTest.DAL/): Data access layer
+- [DemoASPTest.BLL](/DemoASPTest.BLL/): Business logic layer
+- [DemoASPTest.API](/DemoASPTest.API/): API endpoints
+- [DemoASPTest.DB](/DemoASPTest.DB/): Database project with SQL scripts
 
 ## Building the Project
 
